@@ -4,9 +4,9 @@ import os
 
 app = Flask(__name__)
 
-API_KEY = "PUT_API_KEY_HERE"
-SERVER_ID = "PUT_SERVER_ID_HERE"
-PANEL_URL = "https://your-panel-url.com"
+API_KEY = "ptlc_0OoE3GIcyV6dqbljIN798xVbdWgQh6Ar7UsF0KfuHLo"
+SERVER_ID = "c00bb72a-0416-4b3f-83b8-2a26e413466b"
+PANEL_URL = "https://bot-control-h3kp.onrender.com"
 SECRET = "start123"
 
 @app.route("/")
